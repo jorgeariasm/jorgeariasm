@@ -2,7 +2,7 @@
 
   He trabajado en el sector turístico durante años, pero mi interés por las nuevas tecnologías me ha llevado a orientar mi carrera hacia la analítica avanzada de datos.
 - :mortar_board: Desde el año 2019 estoy formándome como **Data Scientist** y especializándome en técnicas de **Machine Learning** y **Business Analytics**, para la toma de decisiones en la empresa.
-- :computer: Mis principales herramientas para el tratamiento de los datos son R, Python y SQL, también he trabajado un poco con Knime. En aspectos de visualización, si necesito algo más de las librerías que me proporcionan dichas herramientas, acudo a Tableau o StreamLit.
+- :computer: Mis principales herramientas para el tratamiento de los datos son R, Python y SQL, también he trabajado un poco con Knime. En aspectos de visualización, dependiendo de las necesidades y el contexto del proyecto uso Tabeau, PowerBi o StreamLit. En cuanto al uso de Cloud, principalmente he desarrollado proyectos con Azure.
 
   En este repositorio puedes ver algunos de los proyectos que he ido desarrollando durante todo este proceso de aprendizaje, el cual nunca para!!
 - :bulb: Puedes además visitar mi perfil de [LinkdIn](https://www.linkedin.com/in/jorgeariasmorales/)
